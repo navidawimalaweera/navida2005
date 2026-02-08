@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey I am Navida:
 👩‍💻 Software Engineering Student | AI & ML Enthusiast<br><br>Hi! I'm a passionate software engineering student who loves building tech that actually makes a difference 🌍✨<br><br>💡 I enjoy turning creative ideas into real-world applications and exploring new technologies every day.<br>Currently focused on developing skills in AI, machine learning, and full-stack development 🚀<br><br>🧠 Interested in:<br>• 🤖 Artificial Intelligence & Machine Learning<br>• 📱 Mobile & Web App Development<br>• 🧩 Problem Solving & Algorithms<br>• 🌱 Tech for social good & impactful startups<br>• 🔬 Research-driven and innovative projects<br><br>🎯 Goal: To build unique, meaningful software solutions and grow into a world-class engineer.<br><br>✨ Always learning. Always building. Always curious.
 
 
